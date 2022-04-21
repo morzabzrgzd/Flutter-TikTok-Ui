@@ -1,4 +1,10 @@
-# tiktok_app
+# Flutter TikTok App Ui
+
+
+https://user-images.githubusercontent.com/87581799/164468059-584ab189-592c-49d8-a801-f52e84924e40.mp4
+
+
+
 
 A new Flutter project.
 
